@@ -2,7 +2,7 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/api/server.js",
   "scripts": {
     "test": "jest tests",
     "start": "node src/api/server",
