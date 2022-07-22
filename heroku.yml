@@ -1,0 +1,9 @@
+build:
+  docker:
+    web: Dockerfile
+
+# se for usar banco de dados
+setup:
+  addons:
+    - plan: heroku-postgresql
+      as: database
