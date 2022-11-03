@@ -1,5 +1,5 @@
 # Exercícios do dia 25.2
-_Clique [aqui](https://github.com/JonathanRei5/trybe-exercicios/tree/main/modulo-03-desenvolvimento-back-end/secao-07-deployment/dia-02-deploy-docker-e-heroku) para ir para o repositório de exercícios._
+_Clique [aqui](https://github.com/Jonathan-R-Andrade/trybe-exercicios/tree/main/modulo-03-desenvolvimento-back-end/secao-07-deployment/dia-02-deploy-docker-e-heroku) para ir para o repositório de exercícios._
 
 Link para a aplicação https://heroku-backend-123.herokuapp.com/users
 
